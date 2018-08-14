@@ -12,3 +12,9 @@ Feature include:
 
 This plugin is using the oscMax class from the maximilian library which can be downloaded from the following link:
 https://github.com/micknoise/Maximilian
+
+# Author
+Augoustinos Tsiros
+
+# Licence
+This project is licensed under the GPLv3 License - see the LICENSE file for details.
