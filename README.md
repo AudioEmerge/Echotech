@@ -7,8 +7,8 @@ Feature include:
 3) Tempo synchronisation to a host application,
 4) Input & output gain control in dB,
 5) Panning and stereo image widening,
-6) Low, band, high state variable filter,
-7) LFO modulation capabilities.
+6) Low, band, high pass state variable filter,
+7) Assinable LFO modulation capabilities.
 
 This plugin is using the oscMax class from the maximilian library which can be downloaded from the following link:
 https://github.com/micknoise/Maximilian
