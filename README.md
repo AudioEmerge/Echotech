@@ -1,7 +1,7 @@
 # Echotech
 This repository provides the source code and vst plugin implementation of a stereo delay with various other features.
 
-Feature include:
+Features include:
 1) Two independent delay line with feedback, 
 2) Wet/dry controls,
 3) Tempo synchronisation to a host application,
